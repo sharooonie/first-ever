@@ -1,0 +1,1 @@
+Text file to confirm connection between Git and GitHub.
